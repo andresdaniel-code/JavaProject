@@ -43,5 +43,8 @@ Cómo ejecutar el proyecto:
 Acceso:
 Ejecutar en navegador: http://localhost:8080/JavaProject/
 
+Ver, editar y borrar listas de usuarios:
+Ejecutar en navegador: http://localhost:8080/JavaProject/listar.jsp
+
 Conclusión:
 Este proyecto permite aplicar conceptos de desarrollo web en Java, conexión a bases de datos y arquitectura básica MVC mediante Servlets.
