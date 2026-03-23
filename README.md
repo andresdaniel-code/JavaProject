@@ -33,6 +33,13 @@ Tabla:
 usuarios
 (id, nombre, email, password, edad)
 
+Cómo ejecutar el proyecto:
+1. Clonar el repositorio (JavaProject)
+2. Importar en NetBeans
+3. Configurar Apache Tomcat
+4. Crear la base de datos en MySQL
+5. Ejecutar el proyecto
+
 Acceso:
 Ejecutar en navegador: http://localhost:8080/JavaProject/
 
