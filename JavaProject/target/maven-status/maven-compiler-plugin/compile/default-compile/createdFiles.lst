@@ -1,0 +1,5 @@
+com\mycompany\javaproject\JakartaRestConfiguration.class
+com\mycompany\javaproject\controlador\EliminarUsuarioServlet.class
+com\mycompany\javaproject\resources\JakartaEE8Resource.class
+com\mycompany\javaproject\controlador\ActualizarUsuarioServlet.class
+com\mycompany\javaproject\controlador\UsuarioServlet.class
